@@ -4,8 +4,6 @@
 
 **Competition**: [Jaguar Re-Identification](https://www.kaggle.com/competitions/jaguar-re-id/)  
 
-**GitHub Repository**: [INSERT GITHUB REPO LINK]  
-
 [W&B Project](https://wandb.ai/finnfreiheit/Jaguar-Re-identification-Challenge?nw=nwuserfinnfrei)
 
 ---
@@ -32,7 +30,6 @@ All experiments start from the same baseline configuration unless explicitly not
 ## Pre-Augmentation
 
 **Notebook**: [Assignment/experiment-preaugmentation.ipynb](Assignment/experiment-preaugmentation.ipynb)  
-
 [Kaggle Submission](https://www.kaggle.com/code/finnfrei/experiment-preaugmentation?scriptVersionId=297879351)  
 
 
@@ -127,7 +124,6 @@ Different loss functions impose different geometric constraints on the embedding
 ## Hyperparameter Optimization
 
 **Notebook**: [Assignment/experiment-hyperparameter-optimization.ipynb](Assignment/experiment-hyperparameter-optimization.ipynb)  
-
 [Kaggle Submission](https://www.kaggle.com/code/finnfrei/experiment-hyperparameter-optimization?scriptVersionId=301471696)
 
 ### Hypothesis
@@ -146,7 +142,6 @@ Systematic hyperparameter tuning across four independent categories (LR schedule
 ## k-Reciprocal Re-Ranking
 
 **Notebook**: [Assignment/experiment-reranking.ipynb](Assignment/experiment-reranking.ipynb)  
-
 [Kaggle Submission ID](https://www.kaggle.com/code/finnfrei/experiment-reranking?scriptVersionId=302658131)
 
 ### Hypothesis
@@ -185,9 +180,7 @@ k-Reciprocal re-ranking (Zhong et al., CVPR 2017) applied as a post-processing s
 ---
 
 ## Backbone Fine-Tuning
-
 **Notebook**: [Assignment/finetune-backbone.ipynb](Assignment/finetune-backbone.ipynb)  
-
 [Kaggle Submission](https://www.kaggle.com/code/finnfrei/finetune-backbone?scriptVersionId=301350487)
 
 ### Hypothesis
